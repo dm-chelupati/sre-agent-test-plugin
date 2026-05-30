@@ -1,0 +1,8 @@
+{
+  "name": "cost-management",
+  "description": "Analyze Azure resource costs and provide actionable optimization recommendations using Azure Advisor, idle resource detection, and right-sizing analysis.",
+  "license": "MIT",
+  "skills": [
+    "skills/"
+  ]
+}
